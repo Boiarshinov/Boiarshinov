@@ -36,6 +36,9 @@ It's all written in markdown and translated to html by Hugo and Github Actions.
 - Enum's riddles. [ru](https://habr.com/ru/post/575208/)
 - How to work with email in Java applications. [ru](https://habr.com/ru/post/526162/)
 
+## My talks
+
+- Distributed Unique Ids Generation. [ru](https://www.youtube.com/watch?v=3LBFnLGo1hQ)
 
 ## Contact me
 
