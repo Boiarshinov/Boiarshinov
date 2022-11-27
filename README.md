@@ -3,6 +3,7 @@
 - ☕ Enterprise Java / Kotlin developer
 - 🦀 Passioned with clean code and quality tests
 - 🐙 Open source contributor
+- 🎃 Program committee member of [Podlodka Java Crew](https://podlodka.io/javacrew) Conference 
 - 👹 Ex leader of a little Russian Java Community [Holywar4j][holywar4j-site]
 
 ## Projects and interesting repos here
@@ -39,6 +40,7 @@ It's all written in markdown and translated to html by Hugo and Github Actions.
 ## My talks
 
 - Distributed Unique Ids Generation. [ru](https://www.youtube.com/watch?v=3LBFnLGo1hQ)
+- Round table: What's new in the Spring Framework 6 and Spring Boot 3. [ru](https://www.youtube.com/watch?v=oltJjGQg7Xc)
 
 ## Contact me
 
