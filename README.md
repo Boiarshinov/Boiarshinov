@@ -42,6 +42,7 @@ It's all written in markdown and translated to html by Hugo and Github Actions.
 - Distributed Unique Ids Generation. [ru](https://www.youtube.com/watch?v=3LBFnLGo1hQ)
 - Round table: What's new in the Spring Framework 6 and Spring Boot 3. [ru](https://www.youtube.com/watch?v=oltJjGQg7Xc)
 - How to save a contract in microservice architecture. [ru](https://youtu.be/iJlcwEWb_VE)
+- Fast payment system. Payment links and where to find them. [ru](https://www.youtube.com/watch?v=xwwNOj1fMzU)
 
 ## Contact me
 
