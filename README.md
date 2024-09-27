@@ -43,6 +43,7 @@ It's all written in markdown and translated to html by Hugo and Github Actions.
 - Round table: What's new in the Spring Framework 6 and Spring Boot 3. [ru](https://www.youtube.com/watch?v=oltJjGQg7Xc)
 - How to save a contract in microservice architecture. [ru](https://youtu.be/iJlcwEWb_VE)
 - Fast payment system. Payment links and where to find them. [ru](https://www.youtube.com/watch?v=xwwNOj1fMzU)
+- Fluent API on Java. [ru](https://youtu.be/XCMjVBzfAlA?si=C5-S8ZPm40VM6gb2)
 
 ## Contact me
 
